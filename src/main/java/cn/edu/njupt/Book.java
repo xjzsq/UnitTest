@@ -1,5 +1,5 @@
 package cn.edu.njupt;
-
+// some fix...
 public class Book {
     private String title;
     private double price;
